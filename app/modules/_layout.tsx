@@ -11,7 +11,6 @@ export default function _layout() {
       <Stack>
         <Stack.Screen name="infras_learn_more1" options={{ title: "Back", headerShown: true }} />
         <Stack.Screen name="infras_learn_more2" options={{ title: "Back", headerShown: true }} />
-        <Stack.Screen name="law_9710" options={{ title: "Back", headerShown: true }} />
       </Stack>
       <StatusBar style="auto" />
     </ThemeProvider>
